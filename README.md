@@ -1,5 +1,8 @@
 # Sphinx alpine
 
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/cl3m3nt/sphinx/)
+
+
 Info :
 
 *   [RST syntax](http://docutils.sourceforge.net/rst.html)
