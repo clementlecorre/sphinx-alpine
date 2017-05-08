@@ -1,6 +1,9 @@
 # Sphinx alpine
 
-[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/cl3m3nt/sphinx/)
+
+[![Docker Automated buil](https://img.shields.io/docker/automated/cl3m3nt/sphinx.svg?style=flat-square)](https://hub.docker.com/r/cl3m3nt/sphinx/)
+[![Docker Build Statu](https://img.shields.io/docker/build/cl3m3nt/sphinx.svg?style=flat-square)](https://hub.docker.com/r/cl3m3nt/sphinx/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/cl3m3nt/sphinx.svg?style=flat-square)](https://hub.docker.com/r/cl3m3nt/sphinx/)
 
 
 Info :
