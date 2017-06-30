@@ -13,7 +13,7 @@ RUN apk add --update --no-cache \
         py3-pip \
         make && \
         pip3 install --upgrade pip && \
-        pip3 install sphinx sphinx_rtd_theme
+        pip3 install sphinx sphinx_rtd_theme recommonmark
 
 RUN sed -i "s/${_SPHINX_DEFAULT_THEME}/${SPHINX_DEFAULT_THEME}/g" `find / -name conf.py_t`
 
